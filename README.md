@@ -1,5 +1,5 @@
-# Awesome Project Build with TypeORM
-
+# MMA API Build with TypeORM
+contains Crud and some more operations
 Steps to run this project:
 
 1. Run `npm i` command
