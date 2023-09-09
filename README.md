@@ -8,7 +8,7 @@ Steps to run this project:
 
 
 # Create Commands
-
+```
 CREATE TABLE Events (
     event_id SERIAL PRIMARY KEY,
     event_name VARCHAR(255) NOT NULL,
@@ -56,7 +56,7 @@ CREATE TABLE Rankings (
     fighter_id INT REFERENCES Fighters(fighter_id),
     rank INT
 );
-
+```
 # ERD
 
 ![asd](./erd.png)
